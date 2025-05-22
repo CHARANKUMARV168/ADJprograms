@@ -34,7 +34,7 @@
 
 6c_array->https://github.com/CHARANKUMARV168/ADJprograms/blob/main/6c_swing/primenumber.png
 
-7a_array->
+7a_array->https://github.com/CHARANKUMARV168/ADJprograms/blob/main/7a_jsp/7a.png
 
 7b_array->https://github.com/CHARANKUMARV168/ADJprograms/blob/main/7b_jsp/cokkieeActivey.png
 
